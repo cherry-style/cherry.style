@@ -36,7 +36,7 @@
     "emotion-server": "10.0.27",
     "framer-motion": "1.11.1",
     "mongoose": "5.9.20",
-    "next": "9.3.3",
+    "next": "11.1.0",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "reflect-metadata": "0.1.13"
